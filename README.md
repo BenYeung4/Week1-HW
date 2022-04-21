@@ -5,7 +5,7 @@
 # Week1-HW
 >>>>>>> 9479901219fbadcc8918f8474f62011f7206d6d9
 
-Below are the comments and changes that I've done for this homework1.
+Below are the comments and changes that I've done for this homework1 that is under the Challenge section.  I believe some of the material might not be shown under the readme file because I've added some codes as an example of what i've done.
 
 I've added my own commentary for the files, so it would be easier to navigate
 
