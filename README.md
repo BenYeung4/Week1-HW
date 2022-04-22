@@ -7,7 +7,7 @@ Under index, line  12 and 35: i've changed the (div) to its own section for ease
 
 For the header name Horiseon, did not see a point for there to be a seperate class for "seo" the only noticable difference or funcationality for those three letters was the unnoticable color difference, but I removed it because it seems unnecessary.
 
-Line 19-34, ive updated the div to a <nav> and added the <ul> to show that it is a listed informaiton.  I've also added the benefits list because that seemed to be important for the viewers to know.  Overall, made the code easier to read.
+Line 19-34, ive updated the div to a nav and added the ul to show that it is a listed informaiton.  I've also added the benefits list because that seemed to be important for the viewers to know.  Overall, made the code easier to read.
 
  I've seperated the class hero, made its own section to be used as background, also the alt was added.  this way, if we need to change the image or add anything to it, it will be easily detected.
 
